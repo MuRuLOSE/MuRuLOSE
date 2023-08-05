@@ -1,4 +1,4 @@
-<img src="https://x0.at/6FqU.png" alt="Banner">
+<img src="https://x0.at/E2sc.png" alt="Banner">
 ### 👋 Hi!
 
 <h1>📈 My stats:</h1>
