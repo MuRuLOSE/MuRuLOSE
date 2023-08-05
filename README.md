@@ -1,5 +1,5 @@
 ### 👋 Hi!
-
+<a href=https://x0.at/6FqU.png></a>
 <h1>📈 My stats:</h1>
 
 [![📊 MuRuLOSE's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuRuLOSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
