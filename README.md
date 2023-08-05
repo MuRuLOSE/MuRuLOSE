@@ -9,4 +9,4 @@
 <h1>📈 My stats:</h1>
 
 [![](https://github-readme-stats.vercel.app/api?username=MuRuLOSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuRuLOSE&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=MuRuLOSE)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=@MuRuLOSE)](https://github.com/anuraghazra/github-readme-stats)
