@@ -9,3 +9,4 @@
 <br>I love programming and click buttons<br>
 <br>My main language is Russian because im  🇷🇺<br>
 <br>Name the name given to me by parents is Macsim<br>
+<br>Russian ver: https://github.com/MuRuLOSE/MuRuLOSE/blob/main/README_RU.md<br>
