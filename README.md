@@ -1,5 +1,5 @@
 <h1>About me:</h1>
-<img src="https://x0.at/xXsW.png" alt="Banner">
+<img src="https://x0.at/MRld.png" alt="Banner">
 👋 Hi!
 <br>I love programming and click buttons<br>
 <br>My main language is Russian because im  🇷🇺<br>
