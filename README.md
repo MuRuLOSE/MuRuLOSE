@@ -13,4 +13,4 @@
 
 <h1>Just the things that I learn</h1>
 
-<img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="Python">
+<img src="https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico" alt="Python">
