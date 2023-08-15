@@ -13,4 +13,4 @@
 
 <h1>Just the things that I learn</h1>
 
-[![Python](https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico)](python.org)
+[![Python](https://www.iconarchive.com/download/i73027/cornmanthe3rd/plex/Other-python.ico)](https://python.org)
