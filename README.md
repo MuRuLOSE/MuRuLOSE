@@ -10,3 +10,7 @@
 
 [![ㅤStats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuRuLOSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)[![ㅤTop Langs](https://github-readme-stats.vercel.app/api?username=MuRuLOSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 [![Wakaㅤ](https://github-readme-stats.vercel.app/api/wakatime?username=@MuRuLOSE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h1>Just the things that I learn</h1>
+
+<img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="Python">
