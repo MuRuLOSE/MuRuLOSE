@@ -1,5 +1,6 @@
 <h1>About me:</h1>
 <img src="https://x0.at/dS13.png" alt="Banner">
+<br>Banner is removed, i try to make new banner</br>
 <br><b>I love programming and click buttons</b><br>
 <br>My main language is Russian because im  🇷🇺<br>
 <br>Name the name given to me by parents is Macsim<br>
